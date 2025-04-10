@@ -26,7 +26,7 @@ To observe and analyze real-time network traffic using Wireshark, and apply prot
 
 ## 🙋‍♂️ Author
 Shaheer Adil — 7th Semester CS  
-GitHub: [YourGitHubProfile]
+GitHub: https://github.com/Shah77adil
 
 ## 📜 License
 This project is for educational purposes only.
